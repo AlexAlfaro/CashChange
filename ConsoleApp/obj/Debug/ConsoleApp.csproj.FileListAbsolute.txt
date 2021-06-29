@@ -1,0 +1,10 @@
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\bin\Debug\CashChange.dll
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\bin\Debug\CashChange.pdb
+C:\Users\Sary.Alfaro.nscorp\Documents\GitHub\AlexAlfaro\CashChange\CashChange\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
